@@ -8,11 +8,12 @@ TODO
 
 1. ~~Initialize Git Repo  (including remote)~~
 2. Start writing out chapters.
+#. Finish Project by then end of 2019
 ---
 
 All Copyright goes to the [Carley Eissman Foundation](http://www.carleyeissmanfoundation.com/). Permissions were given to translate the book only, so I only ask for this to be respected as such.
 
-__NOTE__: Thi work will be heavily moderated due to the nature of it's content, and any unecessary comments/edits will be closed and removed.
+__NOTE__: This work will be heavily moderated due to the nature of it's content, and any unecessary comments/edits will be removed and closed.
 
 
 Contributing
